@@ -1,0 +1,6 @@
+{
+  "whitelistedDomains": [
+    "domain-2.com"
+  ],
+  "blacklistedRoutes": []
+}
